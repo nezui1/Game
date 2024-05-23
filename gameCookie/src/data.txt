@@ -1,0 +1,8 @@
+step=1
+stepSec=0
+stepSec=0
+cookieCounter=50000
+price1=15
+price2=15
+price3=100
+priceImg=10000
